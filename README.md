@@ -1,4 +1,4 @@
-======================
+
 Make Script Executable
 ======================
 chmod + script_name_you_want_to_use.sh
